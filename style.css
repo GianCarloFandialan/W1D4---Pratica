@@ -1,0 +1,186 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background-color: #EBEDED;
+}
+
+.logo-container{
+  background-color: #232F3E;
+  height: 50px;
+}
+
+.top-logo{
+  height: 40px;
+  padding: 5px 0 5px 25px;
+}
+
+nav{
+  background-color: #37475A;
+  color: white;
+}
+
+ul{
+  margin-left: 20px ;
+}
+
+li{
+  display: inline-block;
+  margin: 6px 10px;
+}
+
+.shop-giftcards-section{
+  background-color: rgb(255, 123, 0);
+  color: white;
+  text-align: center;
+  margin: 25px;
+  padding: 6px 0;
+}
+
+.first-section{
+  background-image: url("assets/bg-image.png");
+  background-size: 1280px;
+  text-align: center;
+  color: white;
+  margin: 0 25px 25px 25px;
+}
+
+h1{
+  font-size: 32px;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.be-a-gifter-paragraph{
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+.second-section{
+  background-color: white;
+  margin: 0 25px 25px 25px;
+}
+
+h2{
+  display: inline-block;
+  margin: 25px;
+}
+
+.shop-button{
+  color: #0A655E;
+  font-weight: 800;
+}
+
+.second-section-image-container{
+  margin: 25px;
+  display: inline-block;
+  width: 270px;
+  height: 350px;
+}
+
+.second-section-image{
+  width: 270px;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.third-fourth-section{
+  margin: 25px;
+  text-align: center;
+}
+
+.third-fourth-section h2{
+  margin-top: 0;
+}
+
+.third-fourth-section-image{
+  width: 100%;
+}
+
+.extra-section{
+  margin: 25px;
+}
+
+.extra-section-containter{
+  background-color: white;
+  width: 318px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.extra-section-containter-last{
+  background-color: white;
+  width: 300px;
+  display: inline-block;
+}
+
+h3{
+  margin-left: 25px;
+  margin-top: 15px;
+  text-align: left;
+}
+
+.extra-section-containter{
+  text-align: left;
+}
+
+.extra-section-items-containter{
+  text-align: center;
+  padding: 0;
+}
+
+.extra-section-image-container{
+  width: 130px;
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.extra-section-image{
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+}
+
+.new-logo-image{
+  width: 45px;
+}
+
+.new-logo-image-container{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.extra-section span{
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  color: #138178;
+  display: inline-block;
+  padding: 35px 0 20px 30px;
+}
+
+.back-on-top{
+  text-align: center;
+  background-color: #37475A;
+  color: white;
+  padding: 10px;
+}
+
+.footer-logo-container{
+  background-color: #232F3E;
+  text-align: center;
+}
+
+.footer-logo{
+  height: 60px;
+  padding: 50px;
+}
